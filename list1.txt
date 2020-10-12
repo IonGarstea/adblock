@@ -1,5 +1,6 @@
 [Adblock]
 ! Title: list1
+! Expires: 365 days
 ! This is my personal list with blocked trackers
 
 

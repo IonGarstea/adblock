@@ -49,7 +49,6 @@
 ||onesignal.com^
 ||onetrust.com^
 ||parsely.com^
-||profitshare.ro^
 ||sascdn.com^
 ||scorecardresearch.com^
 ||semi-cod.com^
@@ -107,7 +106,6 @@ oload.tv
 onesignal.com
 onetrust.com
 parsely.com
-profitshare.ro
 sascdn.com
 scorecardresearch.com
 semi-cod.com

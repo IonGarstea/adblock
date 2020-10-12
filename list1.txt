@@ -1,8 +1,8 @@
-[Adblock]
+[Adblock Plus 2.0]
 ! Title: list1
 ! Expires: 365 days
 ! This is my personal list with blocked trackers
 
 
 !domenii
-||https://adevarul.ro/
+||adevarul.ro^

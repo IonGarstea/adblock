@@ -1,12 +1,7 @@
-[Adblock Plus 2.0]
-! Title: list1
-! Expires: 365 days
-! This is my personal list with blocked trackers
-
-
-!domenii
-
-
+#[Adblock Plus 2.0]
+# Title: list1
+# Expires: 365 days
+# This is my personal list with blocked trackers
 
 1rx.io
 33across.com

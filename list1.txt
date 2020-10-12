@@ -40,8 +40,6 @@ gblcdn.com
 getaim.info
 grgm.ro
 indexww.com
-kaspersky-labs.com allow
-kaspersky.com allow
 ladsatz.com
 mgid.com
 netu.tv
@@ -65,3 +63,5 @@ vkcdnservice.com
 yadro.ru
 selectmedia.asia
 projectagora.net
+vi-serve.com
+s-onetag.com
